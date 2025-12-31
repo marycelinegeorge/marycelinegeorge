@@ -1,0 +1,36 @@
+<svg width="300" height="35" viewBox="0 0 300 35" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2a2a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#111;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#333;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="progressGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#D849FF;stop-opacity:1" /> <stop offset="50%" style="stop-color:#8A2BE2;stop-opacity:1" /> <stop offset="100%" style="stop-color:#4B0082;stop-opacity:1" /> </linearGradient>
+
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.3)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="300" height="35" rx="17" ry="17" fill="url(#bgGradient)" filter="url(#shadow)" stroke="#444" stroke-width="1" />
+
+  <rect x="2" y="2" width="105" height="31" rx="15" ry="15" fill="url(#progressGradient)">
+    <animate attributeName="width" from="0" to="105" dur="1.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 0.58 1" />
+  </rect>
+
+  <rect x="2" y="2" width="105" height="31" rx="15" ry="15" fill="url(#shine)" opacity="0.8">
+    <animate attributeName="x" from="-105" to="300" dur="2s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="150" y="23" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle" style="text-shadow: 1px 1px 2px black;">
+    35%
+  </text>
+</svg>
