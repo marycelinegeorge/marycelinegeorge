@@ -4,7 +4,7 @@
   src="https://images.weserv.nl/?url=github.com/marycelinegeorge.png&h=180&w=180&fit=cover&mask=circle&maxage=7d"
   width="180"
   height="180"
-  alt="Mary Celine George"
+  alt="Mary Celine"
 />
 
 <br>
