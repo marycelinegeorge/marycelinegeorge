@@ -1,6 +1,11 @@
 <h1 align="left">Hi 👋, I'm Mary Celine George</h1>
-<img src="https://images.weserv.nl/?url=github.com/<marycelinegeorge>.png&h=180&w=180&fit=cover&mask=circle&maxage=7d"
-     width="180" height="180" alt="Mary Celine" /> 
+<img
+  src="https://images.weserv.nl/?url=github.com/marycelinegeorge.png&h=180&w=180&fit=cover&mask=circle&maxage=7d"
+  width="180"
+  height="180"
+  alt="Mary Celine George"
+/>
+
 <h3 align="left">Aspiring Data Scientist specializing in AI/ML fundamentals and real-world applications.</h3>
 
 # 💫 About Me:
