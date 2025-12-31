@@ -86,10 +86,5 @@
   <code>⚡ Status: Building daily</code>
 </p>
 
-<h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=marycelinegeorge&theme=radical&margin-w=10&margin-h=10" />
-</p>
-
 </div>
 
