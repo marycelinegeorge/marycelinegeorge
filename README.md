@@ -67,7 +67,7 @@
 |:---:|:---|
 | **Languages** | Python, SQL |
 | **Technologies** | Machine Learning, Deep Learning, NLP |
-| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL |
+| **Frameworks & Libraries** | Scikit-learn, TensorFlow, MongoDB, MySQL |
 | **Developer Tools** | Git, GitHub, Excel, PowerBI |
 
 ---
