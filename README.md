@@ -26,17 +26,22 @@
 <p>
   <img src="https://img.shields.io/badge/🔥_Learning-Streak-00f2ea?style=for-the-badge&labelColor=1a202c&color=008080" height="28" alt="Learning Streak" />
   &nbsp;&nbsp;
-  <a href= "https://www.linkedin.com/in/mary-celine/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
-  </a>
-  &nbsp;
-  <a href="mailto:marycelinegeorge.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/YOUR_KAGGLE_ID">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="35" alt="Kaggle" />
-  </a>
+  <a href="https://www.linkedin.com/in/mary-celine/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+</a>
+
+&nbsp;
+
+<a href="mailto:marycelinegeorge.work@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="28" />
+</a>
+
+&nbsp;
+
+<a href="https://www.kaggle.com/celinegeorge" target="_blank">
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="35" alt="Kaggle" />
+</a>
+
 </p>
 
 </div>
