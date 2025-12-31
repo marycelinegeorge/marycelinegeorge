@@ -47,13 +47,14 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Education:** Aspiring Data Scientist — building strong foundations in Python, SQL, statistics, and AI/ML fundamentals  
-- 🔭 **Currently working on:** Building end-to-end ML projects — from data cleaning to model deployment — with a strong focus on real-world Data Science workflows  
-- 🌱 **Learning:** Advanced Python, core Machine Learning concepts, data pipelines, model evaluation, and visual storytelling with data  
-- 💡 **Mindset:** Show up every day, build something useful, and let consistency do the heavy lifting.
-- 🤝 **Looking for support with:** Real-world datasets, improving ML intuition, and writing cleaner, optimized Python code  
-- 💬 **Ask me about:** Python basics, SQL workflows, project structures, GitHub projects, and practical learning resources  
-- ⚡ **Fun fact:** I learn best by building — shipping small projects beats binge-watching tutorials every time 🚀
+- 🎓 **Education:** Aspiring Data Scientist — Python, SQL, Statistics, Machine Learning, AI  
+- 🔭 **Focus:** End-to-End ML projects (data prep → modeling → deployment)  
+- 🌱 **Upgrading:** Advanced Python, ML fundamentals, data pipelines, evaluation  
+- 💡 **Mindset:** Practical, consistent, results-driven  
+- 🤝 **Open to:** Real-world datasets & feedback on production-ready projects  
+- 💬 **Ask me about:** Python, SQL, project workflows, learning roadmaps  
+- ⚡ **Fun fact:** I learn by shipping — build, review, iterate 🚀
+
 
 ---
 
