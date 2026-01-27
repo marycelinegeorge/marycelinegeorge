@@ -1,7 +1,7 @@
 <div align="center">
   
 <img
-  src="https://github.com/marycelinegeorge.png?size=180&w=180&fit=cover&mask=circle"
+  src="https://images.weserv.nl/?url=https://github.com/marycelinegeorge.png&h=180&w=180&fit=cover&mask=circle"
   width="180"
   height="180"
   alt="Mary Celine"
